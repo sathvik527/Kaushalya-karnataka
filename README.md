@@ -10,9 +10,13 @@ In many regions, people face difficulties in finding reliable workers for daily 
 
 At the same time, many skilled workers struggle to find consistent work opportunities and lack a proper platform to showcase their skills and services.
 
-Kaushalya Karnataka solves these problems by creating a centralized digital platform where: image
+Kaushalya Karnataka solves these problems by creating a centralized digital platform where:
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/5630a22e-7282-4b3d-8933-33db0e7daf99" />
+
 
 Customers can search and hire skilled workers easily Workers can create professional profiles and receive job opportunities Both customers and workers can interact through a secure and organized system 🚀 Objectives of the Project image
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/52bd31e2-1f67-4a9d-a56e-68c5653962e1" />
+
 
 verified workers are available To simplify the process of hiring skilled workers To provide better visibility and employment opportunities for workers To build a secure and user-friendly service platform To reduce the time required for service discovery To promote digital transformation in local service industries ✨ Key Features 👷 Worker Registration & Profile Management
 
@@ -23,6 +27,7 @@ Personal details Skills and profession Work experience Service location Availabi
 This helps customers understand worker qualifications before booking services.
 
 🔍 Smart Search & Filter System
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/4b91be22-9435-4c60-ba83-96b365672c0f" />
 
 
 
@@ -33,8 +38,11 @@ This improves convenience and user experience.
 📅 Service Booking System image
 
 Customers can:
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/0eb98a0b-bed2-4913-b544-25ac1d06fe2c" />
 
 Book services directly Schedule appointments Send service requests to workers
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/f20bbef3-1fe6-4126-87a5-d7b68b12dc82" />
+
 
 This creates a smooth and organized hiring process.
 
